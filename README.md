@@ -57,7 +57,7 @@
 
 ### Variables 
 
-Read [this](https://github.com/PR0FESS0R-99/Filter-Bot/blob/Professor-99/variables.py) before you start messing up with your edits.
+Read [this](https://github.com/Guardianff/FilterBot/blob/Professor-99/variables.py) before you start messing up with your edits.
 
 > Required Variables..
 
@@ -87,23 +87,16 @@ Read [this](https://github.com/PR0FESS0R-99/Filter-Bot/blob/Professor-99/variabl
 
 - `DISCONNECT_COMMAND` : default will be 'disconnect'
 
-### Credits
-
-> Thanks to [pyrogram](https://github.com/pyrogram/pyrogram)
-
-> Thanks to [TroJanzHEX](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
-
-> Thanks to [MoTech](https://github.com/PR0FESS0R-99/MoTech)
 
 ### Deploy to
 
 <details><summary>Deploy To Rander</summary>
 <br>
-<p><a href="https://youtu.be/hDGgPNgjo9o">
+<p><a href="https://t.me/+sSWbe8vjU2s1ZTRl">
     Watch Deploying Tutorial...
 </a></p>
 
-<p><a href="https://render.com/deploy?repo=https://github.com/Pr0fess0r-99/FilterBot">
+<p><a href="https://render.com/deploy?repo=https://github.com/Guardianff/FilterBot">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy">
 </a></p>
 </details>
