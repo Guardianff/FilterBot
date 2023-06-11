@@ -9,8 +9,8 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "repository": "https://github.com/Guardianff/FilterBot",
+    "success_url": "https://telegram.dog/GUARDIANff",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
@@ -21,11 +21,11 @@
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash from my.telegram.org",
             "value": ""
         },
         "API_ID": {
-            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID from my.telegram.org",
             "value": ""
         },
         "AUTH_USERS": {
